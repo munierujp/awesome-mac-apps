@@ -1,5 +1,7 @@
 # awesome-mac-apps
 
+My favorite macOS applications
+
 - [Animated Image Maker](https://apps.apple.com/us/app/id1507246566)
 - [Bartender 4](https://www.macbartender.com/)
 - [BlackHole](https://existential.audio/blackhole/)
