@@ -1,4 +1,4 @@
-# awesome-mac-app
+# awesome-mac-apps
 
 - [Animated Image Maker](https://apps.apple.com/us/app/id1507246566)
 - [Bartender 4](https://www.macbartender.com/)
