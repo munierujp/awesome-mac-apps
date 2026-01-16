@@ -3,7 +3,7 @@
 My favorite macOS applications
 
 - [Animated Image Maker](https://apps.apple.com/us/app/id1507246566)
-- [Bartender 4](https://www.macbartender.com/)
+- [Bartender 6](https://www.macbartender.com/)
 - [BlackHole](https://existential.audio/blackhole/)
 - [Calculator Pro](https://itunes.apple.com/app/id576215086)
 - [Clipy](https://clipy-app.com/)
