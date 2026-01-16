@@ -29,7 +29,7 @@ My favorite macOS applications
 - [SecretDesktop](https://itunes.apple.com/app/id1469900735)
 - [Simplenote](https://itunes.apple.com/app/id692867256)
 - [Sketch](https://www.sketch.com/)
-- [Skitch](https://evernote.com/intl/en/products/skitch)
+- [Skitch](https://itunes.apple.com/app/id425955336)
 - [Table Tool](https://itunes.apple.com/app/id1122008420)
 - [teleport](https://github.com/johndbritton/teleport/)
 - [tmpNote](https://itunes.apple.com/app/id1293664761)
