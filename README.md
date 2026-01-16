@@ -15,7 +15,7 @@ My favorite macOS applications
 - [Fixture in Picture](https://itunes.apple.com/app/id1612993947)
 - [GIMP](https://www.gimp.org/)
 - [Google Chrome](https://www.google.com/chrome/)
-- [HyperDock](https://itunes.apple.com/app/id449830122)
+- [HyperDock](https://bahoom.com/hyperdock)
 - [HyperSwitch](https://bahoom.com/hyperswitch)
 - [KeyCastr](https://github.com/keycastr/keycastr)
 - [Magnet](https://itunes.apple.com/app/id441258766)
