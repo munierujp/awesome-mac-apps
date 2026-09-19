@@ -22,6 +22,7 @@ My favorite macOS applications
 - [MenubarX](https://apps.apple.com/app/id1575588022)
 - [Nani](https://nani.now/ja)
 - [Numi](https://numi.app/)
+- [Orkas](https://orkas.ai/?source=gh_munier)
 - [Quick View Calendar](https://itunes.apple.com/app/id1087080039)
 - [Rectangle](https://rectangleapp.com/)
 - [Rocket](https://matthewpalmer.net/rocket/)
